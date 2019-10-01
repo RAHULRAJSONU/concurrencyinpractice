@@ -1,0 +1,5 @@
+
+Hsquid:S1481"*Remove this unused "count" local variable.(¶¼Ñú8ì†þÝ×-
+Wsquid:S1854"9Remove this useless assignment to local variable "count".(¶¼Ñú8ì†þÝ×-
+Jsquid:S2201",The return value of "subtract" must be used.(€íî¸8¸ø‘Þ×-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Çà¡ä
