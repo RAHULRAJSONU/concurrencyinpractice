@@ -11,7 +11,11 @@ k
 Ssrc/main/java/com/silvertech/training/join/complexCalculation/PowerCalculation.java,7\2\72b08e42d76ddc28dacf9b5ea11d57c5eac2cdb2
 ~
 Nsrc/main/java/com/silvertech/training/join/complexCalculation/Application.java,1\5\15acc99b53ea7ad64a0a1fd47fa0e51539c5d9d2
-v
-Fsrc/main/java/com/silvertech/training/imageprocessing/Application.java,f\c\fcebbca34a04c8cbb27a6038ca6f139de0e01f2f
-Å
-Qsrc/main/java/com/silvertech/training/imageprocessing/ImageRecolourProcessor.java,4\b\4b1c4c4dc2ffdec17aa38eba5ebe4923e86c9194
+j
+:src/main/java/com/silvertech/training/deadlock/TrainB.java,9\5\953ca54a072b2bf10f83d9ffeb04353b20f111b0
+j
+:src/main/java/com/silvertech/training/deadlock/TrainA.java,2\8\2800482efe45750b1d48b3219d6101c936ad73af
+}
+Msrc/main/java/com/silvertech/training/deadlock/TrackIntersectionControle.java,6\f\6f23d571437fdf29d542fc87ffb0eca7759508cd
+o
+?src/main/java/com/silvertech/training/deadlock/Application.java,9\1\919ae2601e6329cdf31005d9cd8332763f77a6a2

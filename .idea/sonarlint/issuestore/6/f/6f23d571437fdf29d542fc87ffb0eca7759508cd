@@ -1,0 +1,15 @@
+
+Fsquid:S00108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(òÇš‡øÿÿÿÿ
+Zsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ïõc
+O
+squid:S106	"9Replace this use of System.out or System.err by a logger.(‘§Ý³
+Zsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‚¦¡ûûÿÿÿÿ
+Fsquid:S00108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅìæÕøÿÿÿÿ
